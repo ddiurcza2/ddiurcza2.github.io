@@ -3,13 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+theme: minimal
 ---
 
 Hello!
 
 [www.google.com](www.google.com)
-
-![Block I](/blocki.png)
 
 
 _This will be in italics_
