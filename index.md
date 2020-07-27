@@ -6,11 +6,4 @@ layout: home
 theme: minimal
 ---
 
-Hello!
-
-[www.google.com](www.google.com)
-
-
-_This will be in italics_
-
-**This will be in bold**
+Hello! **MAH NAIM DANNEH, I RUN REEL GUD, I AM GOIN TO ROAD LAND TO MAKE SPACE SUBMARINES**

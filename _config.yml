@@ -11,3 +11,6 @@ github_username: ddiurcza2
 plugins:
   - jekyll-feed
 remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-include-cache
