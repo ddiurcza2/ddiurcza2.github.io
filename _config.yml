@@ -1,16 +1,6 @@
 title: "Daniel Diurczak"
 email: "daniel.diurczak@gmail.com"
-description: |
-Hello, my name is Daniel. |
-I am your local structural analyst. My background includes performing finite element analysis at John Deere, as well 
-as acquiring my bachelors of science in aerospace engineering at the University of Illinois at Urbana Champaign. |
-My interests span a wide horizon, from trying to understand the markets to creating things out of LEGOs. I recently 
-have gotten really into mechanical timekeepers and amateur botany, but my interests have always remained fickle. |
-When it comes to the technical realm, I have admired the aviation industry since I was young and dream of one day 
-being able to fly myself across horizons. I like to keep tabs with major ongoings in the commercial aviation world, and
-the defense world so please start a conversation with me about that. |
-Thanks for taking the time to read this, if you'd like to get in contact with me here is my [linkedin.com/da-diurczak-7nielb5148127](Linkedin), 
-and my [daniel.diurczak@gmail.com](email). My [resume](resume) can be pulled up on this page as well. 
+description: Hello, my name is Daniel. I am your local structural analyst. My background includes performing finite element analysis at John Deere, as well as acquiring my bachelors of science in aerospace engineering at the University of Illinois at Urbana Champaign. |My interests span a wide horizon, from trying to understand the markets to creating things out of LEGOs. I recently have gotten really into mechanical timekeepers and amateur botany, but my interests have always remained fickle.When it comes to the technical realm, I have admired the aviation industry since I was young and dream of one day being able to fly myself across horizons. I like to keep tabs with major ongoings in the commercial aviation world, andthe defense world so please start a conversation with me about that. Thanks for taking the time to read this, if you'd like to get in contact with me here is my [linkedin.com/da-diurczak-7nielb5148127](Linkedin), and my [daniel.diurczak@gmail.com](email). My [resume](resume) can be pulled up on this page as well. 
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
