@@ -4,3 +4,14 @@
 
 layout: home
 ---
+
+Hello!
+
+[www.google.com](www.google.com)
+
+![Block I](/blocki.png)
+
+
+_This will be in italics_
+
+**This will be in bold**
