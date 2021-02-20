@@ -5,8 +5,10 @@
 layout: home
 ---
 
-Hello, my name is Daniel. I am your local structural analyst. My background includes performing finite element analysis at John Deere, as well as acquiring my bachelors of science in aerospace engineering at the University of Illinois at Urbana Champaign. 
+Thanks for visiting! My name is Daniel Diurczak. I've been working as a structural engineer for the past couple of years, previously at John Deere Construction and Forestry and currently at Electric Boat. In my professional experience I have definitely developed an intense interest in solid mechanics and structural dynamics, and I plan on leveraging this into a masters degree in the near future. 
 
-My interests span a wide horizon, from trying to understand the markets to creating things out of LEGOs. I recently have gotten really into mechanical timekeepers and amateur botany, but my interests have always remained fickle.When it comes to the technical realm, I have admired the aviation industry since I was young and dream of one day being able to fly myself across horizons. I like to keep tabs with major ongoings in the commercial aviation world, andthe defense world so please start a conversation with me about that. 
+I really get excited about things that exhibit highly dynamic behavior. Whether it be a mockingbird fluttering at 80 beats per second or a jet fighter pulling massive g maneuvers, I get really excited about how these systems work and I dedicate myself to understanding these behaviors through others accounts and my own research. Paradoxically, I have developed an interest in photography as well. There is a mystifying beauty in capturing chaotic motion. As that dance unfurls itself into the universe, being able to capture a  temporal projection to study and appreciate brings me a lot of joy. So if you want to look at what I've got to show below, you'll see pictures of humanity, landscapes, marvels of engineering, subjective beauty, and a lot of my cat.  
 
 Thanks for taking the time to read this, if you'd like to get in contact with me here is my [Linkedin](https://www.linkedin.com/in/daniel-diurczak-7b5148127/), and my [email](mailto:daniel.diurczak@gmail.com). My [resume](Resume_Updated.pdf) can be pulled up on this page as well. 
+
+I'll create a better version of this in the future but for now here's a link to a [portfolio](portfolio) where what I've captured can be downloaded. 
