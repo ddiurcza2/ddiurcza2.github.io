@@ -59,3 +59,15 @@ layout: regular
     <img src="/DSC00423.JPG" width = "100%" >  
     </a>
 </figure>
+
+<figure class="image">
+    <a href="/DSC00417.JPG" >
+    <img src="/DSC00417.JPG" width = "100%" >  
+    </a>
+</figure>
+
+<figure class="image">
+    <a href="/DSC00223.JPG" >
+    <img src="/DSC00223.JPG" width = "100%" >  
+    </a>
+</figure>
