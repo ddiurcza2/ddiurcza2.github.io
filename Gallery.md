@@ -7,7 +7,7 @@ layout: regular
 
 <figure class="image">
     <a href="/DSC00068.JPG" >
-    <img src="/DSC00068.JPG" width = "100%" >  
+    <img src="/DSC00068.JPG" width = "80%" >  
     </a>
 </figure>
 <figure class="image">
