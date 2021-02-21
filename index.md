@@ -11,4 +11,4 @@ I really get excited about things that exhibit highly dynamic behavior. Whether 
 
 Thanks for taking the time to read this, if you'd like to get in contact with me here is my [Linkedin](https://www.linkedin.com/in/daniel-diurczak-7b5148127/), and my [email](mailto:daniel.diurczak@gmail.com). My [resume](Resume_Updated.pdf) can be pulled up on this page as well. 
 
-I'll create a better version of this in the future but for now here's a link to a [portfolio](portfolio) where what I've captured can be downloaded. 
+I'll create a better version of this in the future but for now here's a link to a [portfolio](/Gallery) where what I've captured can be downloaded. 
